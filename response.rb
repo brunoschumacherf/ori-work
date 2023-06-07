@@ -88,8 +88,3 @@ class QueryResponse
     end
   end
 end
-
-response = QueryResponse.new('consulta.txt', 'conjunto.txt')
-response.load_data
-response.save_result
-response.process_query

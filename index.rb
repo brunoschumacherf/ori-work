@@ -29,4 +29,3 @@ class Index
   end
 end
 
-Index.new('conjunto.txt', 'desconsideradas.txt')
